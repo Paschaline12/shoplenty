@@ -1,0 +1,20 @@
+body{
+    background-image: url("assets/bakground.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#one{
+background-color: white;
+    margin: 200px;
+    padding: 30px;
+    border-radius: 20px;
+    height: 300px;
+}
+#two{
+float: left;
+}
+#three{
+    float: right;
+    margin: 30px;
+    padding-left: 30px;
+}

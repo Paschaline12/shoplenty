@@ -1,0 +1,15 @@
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 3em;
+    background-color: deeppink;
+    font-weight: bolder;
+    text-shadow: 20px 10px 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+img:hover{
+    opacity: 0.4;
+}

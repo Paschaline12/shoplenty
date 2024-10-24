@@ -1,0 +1,63 @@
+#myP{
+    text-align: center;
+    color: orangered;
+    font-family: "Agency FB";
+}
+#myS{
+    text-align: center;
+    color: gold;
+}
+.pp{
+    text-align: center;
+}
+#DIV {
+    background-color: #b6b6c7;
+    margin: 50px;
+    padding: 50px;
+    color: blue;
+}
+#test{
+   background-color: deepskyblue;
+    margin: 25px;
+    padding: 25px;
+    display: flex;
+}
+#test p{
+    margin-left: 30px;
+}
+#test img{
+    border-radius: 400px;
+    width: 200px;
+    height: 200px;
+}
+#main{
+    display: flex;
+}
+#advert{
+    background-color: aquamarine;
+    padding: 20px;
+     box-shadow: 10px 10px 10px 10px darkslategray;
+}
+#accounting{
+    background-color: deeppink;
+    padding: 20px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px 10px deepskyblue;
+}
+#pay{
+    background-color: chartreuse;
+    padding: 20px;
+    margin-left: 20px;
+     box-shadow: 10px 10px 10px 10px greenyellow;
+}
+#advert:hover{
+    color: red;
+    background-color: lawngreen;
+}
+#pay:hover{
+    color: gray;
+    background-color: red;
+}
+#accounting:hover{
+    color: darkmagenta;
+    }
